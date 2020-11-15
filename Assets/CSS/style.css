@@ -44,9 +44,8 @@ body {
  .imgDiv {
      width: 40%;
      margin: 10px;
+}
 
-
- }
 img {
     width: 100%;
 }
@@ -54,14 +53,12 @@ img {
 #div-1{
     width: 96%;
     margin: 0 auto;
-
 }
 
 .imp{
     display: flex;
     width: 80%;
     margin-bottom: 20px;
-
 }
   
 footer {
