@@ -1,2 +1,2 @@
-#Responsive- portfilio
+# portfilio
 https://negasimichael.github.io/Portfilio/
