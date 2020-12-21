@@ -9,11 +9,16 @@ I create the following files files: `index.html`, `portfolio.html` and `contact.
    * Responsive images
    I Used Bootstrap's grid system (containers, rows, and columns
 
-![Portfilio](screeshot1.png) 
+![Portfilio](screenshot1.png) 
+
+
 
 ![Portfilio](screenshot2.png) 
 
+
+
 ![Portfilio](screenshot3.png) 
+
 
 
 
