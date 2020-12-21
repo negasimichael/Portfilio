@@ -17,7 +17,7 @@ I create the following files files: `index.html`, `portfolio.html` and `contact.
 
 
 
-![Portfilio](screenshot3.png) 
+![Portfilio](Screenshot3.png) 
 
 
 
