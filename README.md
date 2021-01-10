@@ -9,15 +9,15 @@ I create the following files files: `index.html`, `portfolio.html` and `contact.
    * Responsive images
    I Used Bootstrap's grid system (containers, rows, and columns
 
-![Portfilio](screenshot1.png) 
+![Portfilio](./Assets/Images/Ne1.png) 
 
 
 
-![Portfilio](screenshot2.png) 
+![Portfilio](./Assets/Images/Ne2.png) 
 
 
 
-![Portfilio](Screenshot3.png) 
+![Portfilio](./Assets/Images/Ne3.png) 
 
 
 
